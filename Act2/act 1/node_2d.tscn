@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://cqri0wkay4jvv"]
+
+[ext_resource type="Script" uid="uid://b446n1lxxqe2a" path="res://label.gd" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D" unique_id=1214603128]
+
+[node name="Label" type="Label" parent="." unique_id=447268617]
+offset_left = 400.0
+offset_top = 300.0
+offset_right = 495.0
+offset_bottom = 323.0
+text = "Hello World!"
+horizontal_alignment = 1
+script = ExtResource("1_wtcfe")
