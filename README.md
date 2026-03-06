@@ -19,3 +19,6 @@ This activity demonstrates a simple 2D scene created in Godot Engine that displa
 
 
 **Week 2 : Act 2 "Level Design"**
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/4b8a60f6-644a-465d-befb-34038f6e7486" />
+
